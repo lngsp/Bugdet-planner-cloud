@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 @Component
 public class ApiGatewayConfig {
 
-    private final String apiUrl = "https://w68n9wulv8.execute-api.us-east-1.amazonaws.com/BudgetStage";
+    private final String apiUrl = "https://.../BudgetStage";
 
     private final RestTemplate restTemplate;
 
